@@ -10,9 +10,11 @@
 import pandas as pd
 df = pd.read_csv('fourth_task.txt')
 df.drop(columns=['category'], inplace=True)
+
 with open('fourth_task_results.txt', 'w') as f:
     f.write(f'{df["rating"].mean()}\n')
     f.write(f'{df["price"].max()}\n')
     f.write(f'{df["rating"].min()}\n')
+
 df = df[df['quantity'] > 930]
 df.to_csv('fourth_task_result.csv', index=False)

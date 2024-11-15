@@ -9,10 +9,14 @@
 # Операция в рамках одной строки: суммирование только абсолютных значений всех чисел,
 # квадрат которых больше 100000.
 # Операция для полученного столбца: сортировка столбца по убыванию, вывод топ-10 строк.
+
 lines = open('second_task.txt','r').readlines()
+
 # Сумма всех чисел квадрат которых больше 100_000 в линии
-# Generator Hell 🤘
-res = [sum([num for num in [abs(int(num_str)) for num_str in line.split()] if num > 316]) for line in lines]
+res = []
+for line in lines:
+    res.append(sum([num for num in [abs(int(num_str)) for num_str in line.split()] if num > 316]))
+
 # Выборка топ 10 строк
 top10 = sorted(res, reverse=True)[:10]
 open('second_task_result.txt','w').writelines([f'{x}\n' for x in top10])

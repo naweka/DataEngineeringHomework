@@ -16,4 +16,5 @@ for line in lines:
         else: nums.append(float(val))
     nums = [x for x in nums if abs(x) < 50.0 and x > 0]
     res.append(0 if len(nums) == 0 else sum(nums) / len(nums))
+
 open('third_task_result.txt','w').writelines([f'{x}\n' for x in res])
