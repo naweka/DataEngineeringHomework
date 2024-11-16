@@ -7,6 +7,7 @@
 # 3. Найдите максимум по столбцу price
 # 4. Найдите минимум по столбцу rating
 # 5. Отфильтруйте значения, взяв только те, quantity которых больше 930
+
 import pandas as pd
 df = pd.read_csv('fourth_task.txt')
 df.drop(columns=['category'], inplace=True)
