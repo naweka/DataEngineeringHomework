@@ -1,0 +1,224 @@
+[
+    {
+        "title": "Под стеклянным колпаком",
+        "price": 1001,
+        "place": "online",
+        "date": "4.5.2010"
+    },
+    {
+        "title": "Страх и отвращение в Лас-Вегасе",
+        "price": 1001,
+        "place": "online",
+        "date": "11.11.2014"
+    },
+    {
+        "title": "Преступление и наказание",
+        "price": 1003,
+        "place": "offline",
+        "date": "24.1.2012"
+    },
+    {
+        "title": "Дюна",
+        "price": 1003,
+        "place": "online",
+        "date": "5.3.2019"
+    },
+    {
+        "title": "Бойня номер пять, или Крестовый поход детей",
+        "price": 1004,
+        "place": "offline",
+        "date": "25.6.2002"
+    },
+    {
+        "title": "На игле",
+        "price": 1004,
+        "place": "online",
+        "date": "26.1.2018"
+    },
+    {
+        "title": "Три товарища",
+        "price": 1004,
+        "place": "online",
+        "date": "11.12.2011"
+    },
+    {
+        "title": "Страх и отвращение в Лас-Вегасе",
+        "price": 1004,
+        "place": "offline",
+        "date": "20.7.2008"
+    },
+    {
+        "title": "Котлован",
+        "price": 1005,
+        "place": "offline",
+        "date": "10.12.2006"
+    },
+    {
+        "title": "Падение дома Ашеров",
+        "price": 1005,
+        "place": "offline",
+        "date": "22.11.2016"
+    },
+    {
+        "title": "Хроники Нарнии",
+        "price": 1005,
+        "place": "online",
+        "date": "11.10.2021"
+    },
+    {
+        "title": "Котлован",
+        "price": 1006,
+        "place": "offline",
+        "date": "18.12.2001"
+    },
+    {
+        "title": "О дивный новый мир",
+        "price": 1008,
+        "place": "offline",
+        "date": "24.1.2009"
+    },
+    {
+        "title": "Бойня номер пять, или Крестовый поход детей",
+        "price": 1008,
+        "place": "offline",
+        "date": "20.10.2012"
+    },
+    {
+        "title": "1984",
+        "price": 1008,
+        "place": "offline",
+        "date": "5.12.2017"
+    },
+    {
+        "title": "Граф Монте-Кристо",
+        "price": 1009,
+        "place": "online",
+        "date": "13.12.2004"
+    },
+    {
+        "title": "Котлован",
+        "price": 1009,
+        "place": "offline",
+        "date": "4.10.2013"
+    },
+    {
+        "title": "Процесс",
+        "price": 1009,
+        "place": "offline",
+        "date": "21.10.2000"
+    },
+    {
+        "title": "Город призраков",
+        "price": 1010,
+        "place": "online",
+        "date": "18.2.2016"
+    },
+    {
+        "title": "Исчезнувшая",
+        "price": 1010,
+        "place": "offline",
+        "date": "17.4.2016"
+    },
+    {
+        "title": "Убить пересмешника",
+        "price": 1010,
+        "place": "offline",
+        "date": "27.2.2023"
+    },
+    {
+        "title": "Солярис",
+        "price": 1012,
+        "place": "offline",
+        "date": "4.5.2022"
+    },
+    {
+        "title": "Ночная стража",
+        "price": 1014,
+        "place": "offline",
+        "date": "26.8.2011"
+    },
+    {
+        "title": "Преступление и наказание",
+        "price": 1014,
+        "place": "online",
+        "date": "11.2.2010"
+    },
+    {
+        "title": "Падение дома Ашеров",
+        "price": 1015,
+        "place": "online",
+        "date": "22.5.2023"
+    },
+    {
+        "title": "Граф Монте-Кристо",
+        "price": 1017,
+        "place": "online",
+        "date": "7.3.2003"
+    },
+    {
+        "title": "Молот ведьм",
+        "price": 1017,
+        "place": "online",
+        "date": "10.1.2007"
+    },
+    {
+        "title": "1984",
+        "price": 1017,
+        "place": "offline",
+        "date": "3.4.2005"
+    },
+    {
+        "title": "Американские горки",
+        "price": 1018,
+        "place": "online",
+        "date": "17.5.2015"
+    },
+    {
+        "title": "О дивный новый мир",
+        "price": 1018,
+        "place": "online",
+        "date": "19.12.2018"
+    },
+    {
+        "title": "На игле",
+        "price": 1018,
+        "place": "online",
+        "date": "27.9.2020"
+    },
+    {
+        "title": "Темная башня",
+        "price": 1019,
+        "place": "online",
+        "date": "3.11.2014"
+    },
+    {
+        "title": "Город призраков",
+        "price": 1020,
+        "place": "offline",
+        "date": "24.2.2013"
+    },
+    {
+        "title": "Бухта Эсмеральда",
+        "price": 1021,
+        "place": "offline",
+        "date": "22.1.2004"
+    },
+    {
+        "title": "Бесконечная история",
+        "price": 1021,
+        "place": "offline",
+        "date": "13.5.2012"
+    },
+    {
+        "title": "Планета обезьян",
+        "price": 1021,
+        "place": "offline",
+        "date": "1.5.2002"
+    },
+    {
+        "title": "Дюна",
+        "price": 1022,
+        "place": "online",
+        "date": "13.5.2014"
+    }
+]

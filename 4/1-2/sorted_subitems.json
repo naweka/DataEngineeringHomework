@@ -1,0 +1,224 @@
+[
+    {
+        "title": "Американские горки",
+        "price": 502,
+        "place": "offline",
+        "date": "2.12.2005"
+    },
+    {
+        "title": "О дивный новый мир",
+        "price": 503,
+        "place": "online",
+        "date": "1.7.2015"
+    },
+    {
+        "title": "Гроздья гнева",
+        "price": 503,
+        "place": "offline",
+        "date": "23.5.2014"
+    },
+    {
+        "title": "Лолита",
+        "price": 505,
+        "place": "offline",
+        "date": "19.8.2023"
+    },
+    {
+        "title": "Большие надежды",
+        "price": 506,
+        "place": "online",
+        "date": "20.9.2006"
+    },
+    {
+        "title": "Франкенштейн",
+        "price": 506,
+        "place": "online",
+        "date": "7.3.2008"
+    },
+    {
+        "title": "Франкенштейн",
+        "price": 506,
+        "place": "online",
+        "date": "23.6.2020"
+    },
+    {
+        "title": "Рассказ мертвецов",
+        "price": 508,
+        "place": "offline",
+        "date": "8.5.2017"
+    },
+    {
+        "title": "Рассказ мертвецов",
+        "price": 508,
+        "place": "offline",
+        "date": "13.5.2021"
+    },
+    {
+        "title": "Молот ведьм",
+        "price": 510,
+        "place": "offline",
+        "date": "22.3.2009"
+    },
+    {
+        "title": "Бойня номер пять, или Крестовый поход детей",
+        "price": 511,
+        "place": "online",
+        "date": "24.11.2012"
+    },
+    {
+        "title": "Три товарища",
+        "price": 512,
+        "place": "offline",
+        "date": "8.10.2017"
+    },
+    {
+        "title": "Черный дом",
+        "price": 512,
+        "place": "offline",
+        "date": "15.5.2020"
+    },
+    {
+        "title": "Бойня номер пять, или Крестовый поход детей",
+        "price": 512,
+        "place": "online",
+        "date": "5.1.2020"
+    },
+    {
+        "title": "Граф Монте-Кристо",
+        "price": 513,
+        "place": "offline",
+        "date": "1.9.2021"
+    },
+    {
+        "title": "Сквозь время",
+        "price": 513,
+        "place": "online",
+        "date": "23.7.2004"
+    },
+    {
+        "title": "Темная башня",
+        "price": 513,
+        "place": "offline",
+        "date": "7.8.2007"
+    },
+    {
+        "title": "Преступление и наказание",
+        "price": 514,
+        "place": "online",
+        "date": "12.3.2013"
+    },
+    {
+        "title": "Ребекка",
+        "price": 515,
+        "place": "offline",
+        "date": "11.10.2007"
+    },
+    {
+        "title": "Преступление и наказание",
+        "price": 515,
+        "place": "offline",
+        "date": "11.5.2009"
+    },
+    {
+        "title": "Котлован",
+        "price": 518,
+        "place": "online",
+        "date": "12.10.2005"
+    },
+    {
+        "title": "Цветы для Элджернона",
+        "price": 518,
+        "place": "online",
+        "date": "11.6.2013"
+    },
+    {
+        "title": "Большие надежды",
+        "price": 520,
+        "place": "offline",
+        "date": "25.11.2014"
+    },
+    {
+        "title": "Три товарища",
+        "price": 520,
+        "place": "offline",
+        "date": "5.11.2002"
+    },
+    {
+        "title": "Цветы для Элджернона",
+        "price": 520,
+        "place": "offline",
+        "date": "16.5.2017"
+    },
+    {
+        "title": "На игле",
+        "price": 521,
+        "place": "online",
+        "date": "26.5.2015"
+    },
+    {
+        "title": "Три товарища",
+        "price": 522,
+        "place": "online",
+        "date": "19.4.2004"
+    },
+    {
+        "title": "Убить пересмешника",
+        "price": 525,
+        "place": "online",
+        "date": "9.3.2008"
+    },
+    {
+        "title": "Падение дома Ашеров",
+        "price": 526,
+        "place": "online",
+        "date": "18.10.2016"
+    },
+    {
+        "title": "Бесконечная история",
+        "price": 526,
+        "place": "online",
+        "date": "28.2.2009"
+    },
+    {
+        "title": "Сумерки",
+        "price": 526,
+        "place": "online",
+        "date": "3.2.2014"
+    },
+    {
+        "title": "Приключения Гекльберри Финна",
+        "price": 527,
+        "place": "offline",
+        "date": "5.2.2010"
+    },
+    {
+        "title": "Бесконечная история",
+        "price": 528,
+        "place": "offline",
+        "date": "24.8.2017"
+    },
+    {
+        "title": "Граф Монте-Кристо",
+        "price": 528,
+        "place": "offline",
+        "date": "5.10.2004"
+    },
+    {
+        "title": "Великий Гэтсби",
+        "price": 529,
+        "place": "online",
+        "date": "7.1.2005"
+    },
+    {
+        "title": "Город призраков",
+        "price": 530,
+        "place": "online",
+        "date": "4.10.2006"
+    },
+    {
+        "title": "Страх и отвращение в Лас-Вегасе",
+        "price": 531,
+        "place": "online",
+        "date": "24.3.2023"
+    }
+]
